@@ -1651,7 +1651,6 @@
    * Class Definition
    * ------------------------------------------------------------------------
    */
-
   class Collapse extends BaseComponent {
     constructor(element, config) {
       super(element);
@@ -1917,6 +1916,7 @@
       }).toggle();
     });
   });
+  
   /**
    * ------------------------------------------------------------------------
    * jQuery
