@@ -283,7 +283,7 @@ input[type="submit"] {
 	#about{
 		flex-direction: column;
 	}
-	
+
 	.picture {
 		width: 50%;
 	}
