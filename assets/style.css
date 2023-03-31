@@ -93,13 +93,10 @@ img.d-block.w-100 {
 	margin-bottom: 8px;
 	line-height: 1.2;
 }
-
 #about-me p {
 	width: 80%;
 	font-size: 14px;
 }
-
-
 .title{
 	text-align: center;
 	padding-block: 1.75em;
@@ -187,7 +184,6 @@ img.d-block.w-100 {
 	justify-content: space-between;
 	display: flex;
 	padding : 2em 0;
-
 }
 
 .service {
@@ -200,6 +196,10 @@ img.d-block.w-100 {
 	flex-direction: column;
 	justify-content: space-between;
 	z-index: 1;
+}
+.service__price p{
+	font-size: 1.5rem;
+	margin-bottom: 6px;
 }
 
 #contact {
