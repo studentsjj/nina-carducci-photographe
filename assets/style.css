@@ -197,10 +197,6 @@ img.d-block.w-100 {
 	justify-content: space-between;
 	z-index: 1;
 }
-.service__price p{
-	font-size: 1.5rem;
-	margin-bottom: 6px;
-}
 
 #contact {
 	margin: auto;
